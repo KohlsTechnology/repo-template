@@ -13,5 +13,5 @@ the full documentation.
 
 ## Developing
 
-See [CONTRIBUTING.md](https://github.com/KohlsTechnology/repo-template/blob/master/.github/CONTRIBUTING.md)
+See [CONTRIBUTING.md](.github/CONTRIBUTING.md)
 for details.
