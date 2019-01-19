@@ -19,7 +19,7 @@
 
 ## Environment:
 
-* Golang version:
+* Runtime version(Java, Go, Python, etc):
 * Desktop OS/version:
 
 ## Additional comments:
