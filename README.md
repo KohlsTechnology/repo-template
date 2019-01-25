@@ -15,3 +15,14 @@ the full documentation.
 
 See [CONTRIBUTING.md](.github/CONTRIBUTING.md)
 for details.
+
+## License
+
+See [LICENSE.md](LICENSE.md)
+for details.
+
+## Code of Conduct
+
+See [CODE_OF_CONDUCT.md](.github/CODE_OF_CONDUCT.md)
+for details.
+
