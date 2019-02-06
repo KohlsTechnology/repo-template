@@ -18,8 +18,19 @@ for details.
 
 ## License
 
-See [LICENSE.md](LICENSE.md)
-for details.
+See [LICENSE](LICENSE) for details.
+
+**START REMOVE THIS BEFORE RELEASE OF PROJECT**
+
+Each source file must include a header comment
+with the Apache 2.0 license details. The copyright
+section in the header must be filled in with the below
+details.
+
+```
+Copyright 2019 Kohl's Department Stores, Inc. 
+```
+**END REMOVE THIS BEFORE RELEASE OF PROJECT**
 
 ## Code of Conduct
 
